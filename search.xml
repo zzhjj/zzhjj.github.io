@@ -8,7 +8,7 @@
       <link href="/2022/06/15/My-New-Post/"/>
       <url>/2022/06/15/My-New-Post/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>摘要</p><span id="more"></span><p>看尼玛呢</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>摘要</p><span id="more"></span><p>博客平台<br>这个博客通过 Hexo 生成，部署在 GitHub Pages主题 3-hexo</p><p>快捷键<br>全局快捷键<br>KeyDescption<br>s&#x2F;S全屏&#x2F;取消全屏<br>w&#x2F;W打开&#x2F;关闭文章目录<br>i&#x2F;I获取搜索框焦点<br>j&#x2F;J向下滑动<br>k&#x2F;K向上滑动<br>gg&#x2F;GG到最顶端<br>shift+G&#x2F;g到最下端<br>搜索框快捷键<br>KeyDescption<br>ESC1.如果输入框有内容，清除内容；2.如果输入框无内容，失去焦点<br>下向下选择文章<br>上向上选择文章<br>回车打开当前选中的文章，若没有，则默认打开第一个<br>其它功能<br>搜索支持文章标题、标签(#标签)、作者(@作者)</p>]]></content>
       
       
       <categories>
@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> PS3 </tag>
-            
             <tag> Games </tag>
+            
+            <tag> test </tag>
             
         </tags>
       
