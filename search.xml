@@ -5,6 +5,33 @@
     
     <entry>
       <title>Hello World</title>
+      <link href="/2022/06/15/My-New-Post/"/>
+      <url>/2022/06/15/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>摘要</p><span id="more"></span><p>我是帅哥</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PS3 </tag>
+            
+            <tag> Games </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
       <link href="/2022/06/15/hello-world/"/>
       <url>/2022/06/15/hello-world/</url>
       
